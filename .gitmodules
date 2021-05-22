@@ -1,0 +1,3 @@
+[submodule "simpleness"]
+	path = simpleness
+	url = ./themes/simpleness
